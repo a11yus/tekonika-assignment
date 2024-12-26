@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --olive-600: #637A4F;
+}
+
+.bg-olive-600 {
+  background-color: var(--olive-600);
+}
+
+.border-olive-600 {
+  border-color: var(--olive-600);
+}
+
+.text-olive-600 {
+  color: var(--olive-600);
+}
+
